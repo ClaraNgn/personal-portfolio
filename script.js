@@ -33,7 +33,7 @@ if (reduceMotion || !('IntersectionObserver' in window)) {
         }
       });
     },
-    { threshold: 0.12 }
+    { threshold: 0.01 }
   );
 
   revealItems.forEach((item) => observer.observe(item));

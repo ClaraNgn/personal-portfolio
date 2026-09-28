@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-A responsive personal website for Phan Bao Ngoc Nguyen, a Marketing student at Kent State University.
+A responsive personal website for Clara Nguyen, a Business Analytics student at Kent State University.
 
 ## Live site
 
